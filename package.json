@@ -11,6 +11,7 @@
     "dev": "node server & webpack --watch",
     "server": "node server",
     "start": "webpack && node server",
+    "knex": "knex",
     "test": "jest --watchAll"
   },
   "babel": {
